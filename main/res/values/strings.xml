@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fake Shop</string>
+    <string name="app_info">My Application</string>
+    <string name="image">image</string>
+    <string name="satiety">Satiety</string>
+    <string name="feed_button_text">FEED</string>
+    <string name="group">951006</string>
+    <string name="name">Igor Yanushkevich</string>
+    <string name="email">igor.yanushkevich@gmail.com</string>
+    <string name="user_serch_hint">Что вы ищите?</string>
+
+</resources>
